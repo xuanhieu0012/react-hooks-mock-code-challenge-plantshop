@@ -41,6 +41,48 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "asdas",
+      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1603654887-1427228256-chinese-evergreen-plants-little-water.jpg",
+      "price": 10,
+      "id": 8
+    },
+    {
+      "name": "asdasd",
+      "image": "asdsad",
+      "price": "",
+      "id": 9
+    },
+    {
+      "name": "asdasdsa",
+      "image": "asdasd",
+      "price": "",
+      "id": 10
+    },
+    {
+      "name": "asdsa",
+      "image": "asdsa",
+      "price": "",
+      "id": 11
+    },
+    {
+      "name": "asdasd",
+      "image": "",
+      "price": "",
+      "id": 12
+    },
+    {
+      "name": "asdasd",
+      "image": "asdasd",
+      "price": "",
+      "id": 13
+    },
+    {
+      "name": "asdjaksl;jd",
+      "image": "asdasdasd",
+      "price": "",
+      "id": 14
     }
   ]
 }
